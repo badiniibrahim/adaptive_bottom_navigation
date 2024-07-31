@@ -1,5 +1,9 @@
 # Changelog 🪵
 
+## 1.0.5
+
+- [Add]: Update changelog
+
 ## 1.0.4
 
 - [Add]: Add a sample project

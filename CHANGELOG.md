@@ -1,7 +1,13 @@
-## 1.0.1
+# Changelog 🪵
 
-- Initial release.
+## 1.0.3
+
+- [Fix]: Change package name et update changelog
 
 ## 1.0.2
 
-- Change package name
+- [Fix]: Change package name
+
+## 1.0.1
+
+- [Add]: Initial release.

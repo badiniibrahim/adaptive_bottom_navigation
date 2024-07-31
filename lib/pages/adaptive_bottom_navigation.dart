@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:adaptive_botton_navigation/controller/adaptive_bottom_navigation_controller.dart';
+import 'package:adaptive_bottom_navigation/controller/adaptive_bottom_navigation_controller.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

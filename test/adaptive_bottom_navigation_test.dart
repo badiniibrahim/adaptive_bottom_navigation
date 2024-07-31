@@ -1,4 +1,4 @@
-import 'package:adaptive_botton_navigatione/pages/adaptive_bottom_navigation.dart';
+import 'package:adaptive_botton_navigation/pages/adaptive_bottom_navigation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:get/get.dart';

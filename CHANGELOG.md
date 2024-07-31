@@ -1,5 +1,9 @@
 # Changelog 🪵
 
+## 1.0.6
+
+- [Add]: Add Screenshot
+
 ## 1.0.5
 
 - [Add]: Update changelog

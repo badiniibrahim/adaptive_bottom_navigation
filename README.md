@@ -15,7 +15,7 @@ and the Flutter guide for
 
 Adaptive Bottom Navigation is a Flutter package that provides an adaptive bottom navigation bar widget, supporting both iOS and Android platforms. The navigation bar automatically adapts its appearance to match the platform, ensuring a consistent and native-like user experience.
 
-## Updated by [@badiniibrahim](https://github.com/badiniibrahim)
+## Created by [@badiniibrahim](https://github.com/badiniibrahim)
 
 Liked some of my work? Buy me a coffee. Thanks for your support :heart:
 
@@ -24,6 +24,7 @@ Liked some of my work? Buy me a coffee. Thanks for your support :heart:
 ## Screenshot
 
 ![alt text](1.png)
+![alt text](2.png)
 
 ## Features
 

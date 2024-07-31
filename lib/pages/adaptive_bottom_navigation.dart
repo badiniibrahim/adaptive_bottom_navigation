@@ -44,21 +44,52 @@ import 'package:get/get.dart';
 /// ```
 class AdaptiveBottomNavigation
     extends GetView<AdaptiveBottomNavigationController> {
+  /// The size of the icons in the navigation bar.
   final double iconSize;
+
+  /// The list of icons to display in the navigation bar.
   final List<IconData> icons;
+
+  /// The list of labels corresponding to each icon.
   final List<String> labels;
+
+  /// The list of pages corresponding to each navigation item.
   final List<Widget> pages;
+
+  /// The color of the selected icon.
   final Color selectedColor;
+
+  /// The color of the unselected icons.
   final Color unselectedColor;
+
+  /// The background color of the navigation bar.
   final Color backgroundColor;
+
+  /// The duration of the animation when switching tabs.
   final Duration animationDuration;
+
+  /// The curve for the indicator animation.
   final Curve animationIndicatorCurve;
+
+  /// The curve for the icon animation.
   final Curve animationIconCurve;
+
+  /// The decoration for the indicator.
   final BoxDecoration? indicatorDecoration;
+
+  /// The decoration for each item in the navigation bar.
   final BoxDecoration? itemDecoration;
+
+  /// The decoration for the entire bottom navigation bar.
   final BoxDecoration? bottomNavigationDecoration;
+
+  /// The height of the navigation bar.
   final double height;
+
+  /// The height of the indicator.
   final double indicatorHeight;
+
+  /// The space between the indicator and the bottom of the navigation bar.
   final double indicatorSpaceBottom;
 
   /// Creates an [AdaptiveBottomNavigation].

@@ -3,7 +3,7 @@ description: "A Flutter package that displays an adaptive bottom navigation bar 
 homepage: https://github.com/badiniibrahim/adaptive_botton_navigation
 repository: https://github.com/badiniibrahim/adaptive_botton_navigation
 
-version: 1.0.6
+version: 1.0.7
 
 environment:
   sdk: ">=3.3.3 <4.0.0"

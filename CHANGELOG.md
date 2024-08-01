@@ -1,5 +1,9 @@
 # Changelog 🪵
 
+## 1.0.7
+
+- [Add]: Remove removing unnecessary code
+
 ## 1.0.6
 
 - [Add]: Add Screenshot
